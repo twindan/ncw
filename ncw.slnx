@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="dotnet/NativeInstruments.Ncw.Tests/NativeInstruments.Ncw.Tests.csproj" />
+  <Project Path="dotnet/NativeInstruments.Ncw.Tool/NativeInstruments.Ncw.Tool.csproj" />
+  <Project Path="dotnet/NativeInstruments.Ncw/NativeInstruments.Ncw.csproj" />
+</Solution>
